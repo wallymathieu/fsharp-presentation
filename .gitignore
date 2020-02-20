@@ -1,0 +1,6 @@
+*.log
+packages/
+.paket/load/
+paket-files/
+.ionide/
+.ipynb_checkpoints/

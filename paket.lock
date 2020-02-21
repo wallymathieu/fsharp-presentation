@@ -1,0 +1,12 @@
+GENERATE-LOAD-SCRIPTS: ON
+RESTRICTION: == net46
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FluentValidation (8.6)
+      System.ComponentModel.Annotations (>= 4.4.1)
+    FSharp.Core (4.7)
+    FSharpPlus (1.1.0-RC2)
+      FSharp.Core (>= 4.6.2)
+      System.ValueTuple (>= 4.4)
+    System.ComponentModel.Annotations (4.7)
+    System.ValueTuple (4.5)
